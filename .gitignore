@@ -1,0 +1,6 @@
+# IntelliJ project files
+.idea
+
+elm-stuff
+node_modules
+out
